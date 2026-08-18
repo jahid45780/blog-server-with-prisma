@@ -18,7 +18,7 @@ datasource db {
     email String
     password String?
     role Role @default(USER)
-    phone String
+    phone String?
     picture String?
     IsVerified Boolean @default(false)
     createdAt DateTime @default(now())
