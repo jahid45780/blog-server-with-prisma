@@ -1,11 +1,4 @@
 
-# Next Blog Starter
-
-A simple **Blog Application Starter Pack** built with **TypeScript, Express.js**.  
-This project is designed for the **Next Level Web Development Bootcamp** to help learners practice Prisma hands-on by building a blog platform.
-
----
-
 ## Features
 - TypeScript + Express.js setup
 - Modular project structure
@@ -16,12 +9,7 @@ This project is designed for the **Next Level Web Development Bootcamp** to help
 
 ## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/Apollo-Level2-Web-Dev/next-blog-starter.git
-cd next-blog-starter
-```
+https://github.com/jahid45780/blog-server-with-prisma
 
 Install dependencies:
 
@@ -48,15 +36,6 @@ Run the development server:
 # using npm
 npm run dev
 
-# using yarn
-yarn dev
-
-# using pnpm
-pnpm dev
-```
-
----
-
 ## Folder Structure
 
 ```
@@ -73,29 +52,4 @@ Prisma-Blog/
 │── README.md              # Documentation
 ```
 
----
 
-## Scripts
-
-```bash
-# Run in development mode
-pnpm dev
-
-# Build for production
-pnpm build
-
-# Run production build
-pnpm start
-```
-
----
-
-## Learning Objective
-
-This starter pack is part of the **Next Level Web Development Bootcamp** curriculum.
-By using this project, students will learn how to:
-
-* Connect a Node.js app with Prisma ORM
-* Build modular APIs
-* Manage environment variables
-* Structure scalable backend projects
